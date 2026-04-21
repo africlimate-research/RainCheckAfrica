@@ -14,7 +14,7 @@ Built by [AfriClimate AI](https://africlimate.ai) · Data from a PRISMA-complian
 
 Selecting the right rainfall dataset for African applications is non-trivial. No single product performs best everywhere — accuracy varies substantially by region, terrain, temporal scale, and application domain. RainCheck Africa makes the evidence base navigable.
 
-The dashboard surfaces curated validation metrics extracted from 71 peer-reviewed studies published between 2015 and 2024, covering products evaluated against rain gauge networks across the continent. Users can filter by country, product, metric, temporal scale, and application type, and explore performance summaries alongside the underlying study-level data.
+The dashboard surfaces curated validation metrics extracted from 71 peer-reviewed studies published between 2015 and 2025, covering products evaluated against rain gauge networks across the continent. Users can filter by country, product, metric, temporal scale, and application type, and explore performance summaries alongside the underlying study-level data.
 
 The underlying dataset is the companion data release to:
 
@@ -52,7 +52,7 @@ The dashboard is powered by a structured extraction database compiled from the 7
 | `PRODUCT_TYPE` | Satellite, reanalysis, merged, or gauge-based |
 | `METRIC` | Validation metric (CC, RMSE, NSE, Bias, KGE, POD, FAR, CSI, etc.) |
 | `VALUE` | Reported metric value |
-| `TIME_SCALE` | Daily, monthly, seasonal, or annual |
+| `TIME_SCALE` | 15 Minutes, Hourly, Daily, Pentadal, Dekadal|
 
 The full dataset is deposited at Zenodo: [DOI — to be added]
 
