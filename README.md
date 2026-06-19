@@ -6,7 +6,7 @@
 
 **An interactive dashboard for exploring gridded rainfall product performance across Africa**
 
-Built by [AfriClimate AI](https://africlimate.ai) · Data from a PRISMA-compliant systematic review and meta-analysis of 71 peer-reviewed validation studies
+Built by [AfriClimate AI](https://africlimate.ai) · Data from a PRISMA-compliant systematic review and meta-analysis of 72 peer-reviewed validation studies
 
 ---
 
